@@ -17,7 +17,7 @@ Wiki source and more information: https://en.wikipedia.org/wiki/Form_filler
 * Install __Python 3.x.x__ using [Python downloads page](https://www.python.org/downloads/) and selecting your operating system and latest stable release
 * Install __Selenium__ in Python using `[sudo] pip install selenium`
 
-_NOTE:_ You don't need to download a chrome webdriver because I have uploaded the same along with my Python scripts.
+_NOTE:_ You don't need to download a chrome webdriver because I have uploaded the same along with my Python scripts. I claim no ownership to this file, this is a property of the chromium project and can be downloaded from this link: https://chromedriver.chromium.org/downloads. I have just placed it here for convenience.
 
 # Execution instructions:
 * First execute the _Web_Scraper.py_ using `python Web_Scraper.py`. This will create two files: `first_names.txt` and `last_names.txt`
